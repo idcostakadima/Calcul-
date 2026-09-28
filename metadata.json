@@ -1,0 +1,6 @@
+{
+  "name": "NovaCalc Quantum",
+  "description": "Calculatrice interactive et intelligente du futur dotée d'un moteur scientifique, d'un traceur de fonctions interactif et d'un résolveur neuronal IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
